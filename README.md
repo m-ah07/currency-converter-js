@@ -41,13 +41,12 @@ A simple web-based Currency Converter built using HTML, CSS, and JavaScript. It 
 
 currency-converter-js/
 ├── assets/
-│   ├── screenshot.png        
-│   └── style.css        
-├── index.html             
-├── script.js              
-├── License              
-└── README.md             
-
+│   ├── screenshot.png
+│   └── style.css
+├── index.html
+├── License
+├── script.js
+└── README.md
 
 ## Contributing
 
