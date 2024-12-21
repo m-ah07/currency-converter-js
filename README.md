@@ -16,7 +16,7 @@ A simple web-based Currency Converter built using HTML, CSS, and JavaScript. It 
 
 2. Open the `index.html` file in any browser.
 
-## Usage
+## 📖 Usage
 
 1. Enter the amount you want to convert.
 2. Choose the "from" and "to" currencies.
@@ -52,3 +52,6 @@ currency-converter-js/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+## 🌟 Show Your Support
+If you found this project helpful, please consider giving it a ⭐ on GitHub. Your support means the world to us!
