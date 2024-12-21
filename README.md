@@ -38,7 +38,7 @@ A simple web-based Currency Converter built using HTML, CSS, and JavaScript. It 
 - Improve error handling and UI design.
 
 ## Directory Structure
-
+```plaintext
 currency-converter-js/
 ├── assets/
 │   ├── screenshot.png
@@ -47,6 +47,7 @@ currency-converter-js/
 ├── License
 ├── script.js
 └── README.md
+```
 
 ## Contributing
 
