@@ -12,7 +12,6 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        // استدعاء API لتحويل العملات (API مجانية وهمية)
         const apiKey = 'YOUR_API_KEY';
         const url = `https://api.exchangerate-api.com/v4/latest/${fromCurrency}`;
 
