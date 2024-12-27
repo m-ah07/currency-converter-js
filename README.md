@@ -44,7 +44,7 @@ currency-converter-js/
 │   ├── screenshot.png
 │   └── style.css
 ├── index.html
-├── License
+├── LICENSE
 ├── script.js
 └── README.md
 ```
