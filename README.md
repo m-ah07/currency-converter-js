@@ -31,7 +31,7 @@ A simple web-based Currency Converter built using HTML, CSS, and JavaScript. It 
 - JavaScript Fetch API (no external libraries required).
 
 
-## Future Enhancements
+## ✨ Future Enhancements
 
 - Add more currencies.
 - Support offline mode.
