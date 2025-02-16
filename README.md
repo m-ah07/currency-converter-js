@@ -11,7 +11,7 @@ A simple web-based Currency Converter built using HTML, CSS, and JavaScript. It 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/marwan-ahmed-23/currency-converter-js.git
+    git clone https://github.com/m-ah07/currency-converter-js.git
     ```
 
 2. Open the `index.html` file in any browser.
